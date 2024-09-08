@@ -25,6 +25,7 @@ my leetcode solved problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kairuihu2903/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,12 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
