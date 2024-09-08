@@ -14,6 +14,7 @@ my leetcode solved problems
 | [0198-house-robber](https://github.com/Kairuihu2903/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kairuihu2903/LeetCode/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/Kairuihu2903/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ my leetcode solved problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Kairuihu2903/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
