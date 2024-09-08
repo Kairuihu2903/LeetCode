@@ -15,6 +15,7 @@ my leetcode solved problems
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kairuihu2903/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Kairuihu2903/LeetCode/tree/master/0792-binary-search) |
+| [1039-find-the-town-judge](https://github.com/Kairuihu2903/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ my leetcode solved problems
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
+| [1039-find-the-town-judge](https://github.com/Kairuihu2903/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +106,8 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Kairuihu2903/LeetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
