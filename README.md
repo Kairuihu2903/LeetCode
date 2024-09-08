@@ -10,12 +10,14 @@ my leetcode solved problems
 | [0011-container-with-most-water](https://github.com/Kairuihu2903/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kairuihu2903/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kairuihu2903/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -75,4 +77,16 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
