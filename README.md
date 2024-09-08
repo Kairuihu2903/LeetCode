@@ -11,6 +11,7 @@ my leetcode solved problems
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Kairuihu2903/LeetCode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Kairuihu2903/LeetCode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
