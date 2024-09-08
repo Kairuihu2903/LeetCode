@@ -9,6 +9,7 @@ my leetcode solved problems
 | [0001-two-sum](https://github.com/Kairuihu2903/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kairuihu2903/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
