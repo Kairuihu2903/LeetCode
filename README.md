@@ -8,6 +8,7 @@ my leetcode solved problems
 | ------- |
 | [0001-two-sum](https://github.com/Kairuihu2903/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kairuihu2903/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kairuihu2903/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
