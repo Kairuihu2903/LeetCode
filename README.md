@@ -9,6 +9,7 @@ my leetcode solved problems
 | [0001-two-sum](https://github.com/Kairuihu2903/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kairuihu2903/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Kairuihu2903/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kairuihu2903/LeetCode/tree/master/0198-house-robber) |
@@ -37,6 +38,7 @@ my leetcode solved problems
 | [0002-add-two-numbers](https://github.com/Kairuihu2903/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Kairuihu2903/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kairuihu2903/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
