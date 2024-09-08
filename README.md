@@ -13,6 +13,7 @@ my leetcode solved problems
 | ------- |
 | [0001-two-sum](https://github.com/Kairuihu2903/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kairuihu2903/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kairuihu2903/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +31,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kairuihu2903/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
