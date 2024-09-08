@@ -13,6 +13,7 @@ my leetcode solved problems
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kairuihu2903/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Kairuihu2903/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kairuihu2903/LeetCode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/Kairuihu2903/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
