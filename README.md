@@ -12,6 +12,7 @@ my leetcode solved problems
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kairuihu2903/LeetCode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ my leetcode solved problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kairuihu2903/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +33,7 @@ my leetcode solved problems
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kairuihu2903/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +71,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kairuihu2903/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +86,7 @@ my leetcode solved problems
 | ------- |
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kairuihu2903/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +95,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
