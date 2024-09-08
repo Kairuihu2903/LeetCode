@@ -30,11 +30,13 @@ my leetcode solved problems
 | [0002-add-two-numbers](https://github.com/Kairuihu2903/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Kairuihu2903/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Kairuihu2903/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kairuihu2903/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kairuihu2903/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Kairuihu2903/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Kairuihu2903/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
