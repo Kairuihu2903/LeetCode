@@ -24,6 +24,7 @@ my leetcode solved problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kairuihu2903/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kairuihu2903/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 | [1039-find-the-town-judge](https://github.com/Kairuihu2903/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Linked List
@@ -55,6 +56,7 @@ my leetcode solved problems
 | [0013-roman-to-integer](https://github.com/Kairuihu2903/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kairuihu2903/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kairuihu2903/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Kairuihu2903/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +107,7 @@ my leetcode solved problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kairuihu2903/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kairuihu2903/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kairuihu2903/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
